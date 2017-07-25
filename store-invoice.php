@@ -11,9 +11,9 @@
 
 
 		$servername = "localhost";
-	    $username = "primex";
+	    $username = "primex54_primex";
 	    $password = "123456";
-	    $dbname = "primexdb";
+	    $dbname = "primex54_primex";
 
 	    // Create connection
 	    $conn = new mysqli($servername, $username, $password, $dbname);
